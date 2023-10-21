@@ -1,9 +1,7 @@
-.feedbackResult{
-    color: #6E4E39;
+.description{
+    margin-left: 20px;
     font-size: 20px;
     font-style: normal;
     font-weight: 400;
     line-height: normal;
-    margin-left: 20px;
-    padding-bottom: 20px;
-}
+  }

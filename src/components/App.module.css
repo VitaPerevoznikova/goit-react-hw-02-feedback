@@ -1,0 +1,17 @@
+.container {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  margin: 0 auto;
+  width: 500px;
+  max-width: 100%;
+  height: auto;
+  -webkit-box-shadow: -1px 2px 34px 1px #92a46680;
+  -moz-box-shadow: -1px 2px 34px 1px #92a46680;
+  box-shadow: -1px 2px 34px 1px #92a46680;
+}
+.mainTitle{
+  padding-top: 30px;
+  margin-bottom: 10px;
+}

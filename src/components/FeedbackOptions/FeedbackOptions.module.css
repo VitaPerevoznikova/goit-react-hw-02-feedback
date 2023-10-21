@@ -1,4 +1,9 @@
-
+.containerFeedback{
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 30px;
+}
 .btnResult {
   border-radius: 30px;
   border: 1px solid #6e4e39;
@@ -9,6 +14,7 @@
   font-style: normal;
   font-weight: 400;
   line-height: normal;
+  text-transform: capitalize;
 
   width: 116px;
   height: 39px;
